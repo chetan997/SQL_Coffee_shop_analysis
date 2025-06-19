@@ -32,7 +32,7 @@ After analyzing the data, the recommended top three cities for new store opening
 
 City 1: Pune
 1. Average rent per customer is 3rd lowest at 294.23.
-2. Highest total revenue ie 1.2 million.
+2. Highest total revenue i.e 1.2 million.
 3. Average sales per customer is also high.
 
 City 2: Delhi
